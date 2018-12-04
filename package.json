@@ -1,0 +1,22 @@
+{
+  "name": "@shijun/learnnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "shijun",
+  "license": "ISC",
+  "description": "This is a learning project for node.js\r Getting  use to the commands and creating files",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wang17112018su"
+  },
+  "keywords": [
+    "node"
+  ]
+}
